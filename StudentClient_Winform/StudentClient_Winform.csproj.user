@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Classroom_Form\Classroomfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Classroom_Form\Classroom_Input_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Classroom_Form\UpdateClassroomfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Course_Form\Coursefrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Course_Form\Course_Input_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Course_Form\UpdateCoursefrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Enrollment_Form\Enrollmentfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Enrollment_Form\Enrollment_input_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Enrollment_Form\UpdateEnrollmentfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mainfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student_Form\Studentfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student_Form\Student_Input_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student_Form\UpdateStudentfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teacher_Form\Teacherfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teacher_Form\Teacher_Input_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teacher_Form\UpdateTeacherfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
