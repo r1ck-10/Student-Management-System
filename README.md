@@ -1,5 +1,5 @@
 1. You need to clone the project from github link above
-2. If you don't have Microsoft SQL Manager Express
+2. If you don't have Microsoft SQL Manager Express you must download it
 3. After Install everything now you can run the Microsoft SQL Manager app and Make sure you connect to Database
 4. After that You must create Database Name "StudenDB"
 5. Open project file wiht Visual Studio in project StudentAPI please open filename "appsettings.json" and change the original connection string to yours.
